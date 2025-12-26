@@ -11,3 +11,7 @@ _merge = "shallow"
 [taxonomies]
 _merge = "shallow"
 
+[params]
+
+[params.cookieconsent]
+enable = false
