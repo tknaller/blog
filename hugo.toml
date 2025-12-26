@@ -1,0 +1,13 @@
+baseURL = 'https://itmns.at/'
+languageCode = 'en-us'
+title = 'IT makes no sense'
+theme = 'FixIt'
+[markup]
+_merge = "shallow"
+
+[outputs]
+_merge = "shallow"
+
+[taxonomies]
+_merge = "shallow"
+
