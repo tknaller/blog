@@ -25,3 +25,4 @@ Wir verwenden keine Cookies auf unseren Webseiten.
 
 ### Hosting
 Unsere Webseiten werden auf Cloud Servern der Firma Microsoft (Azure Static Web App) gehostet.
+
